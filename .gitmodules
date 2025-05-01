@@ -1,0 +1,3 @@
+[submodule "Rover_firmware"]
+	path = Rover_firmware
+	url = https://github.com/DmitryKaverznev/Rover_firmware.git
